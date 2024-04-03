@@ -1,0 +1,2 @@
+../Core/Src/spi45.c:6:6:spi45_transmit	16	static
+../Core/Src/spi45.c:13:6:spi45_write_register	24	static
