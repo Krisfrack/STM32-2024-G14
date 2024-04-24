@@ -1,0 +1,7 @@
+../Core/Src/sht31.c:4:10:uint8_to_16	24	static
+../Core/Src/sht31.c:13:9:calculate_crc	32	static
+../Core/Src/sht31.c:29:7:calcul_humidity	16	static
+../Core/Src/sht31.c:34:7:calcul_temperature	16	static
+../Core/Src/sht31.c:41:6:SHT31_init	40	static
+../Core/Src/sht31.c:61:6:send_command	32	static
+../Core/Src/sht31.c:72:6:SHT31_mesure_temp_hum	48	static
